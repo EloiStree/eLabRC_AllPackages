@@ -60,4 +60,14 @@ You played the game eLabRC and are now looking for its source code. Here, you ca
   - https://github.com/EloiStree/2024_09_03_SkyRidingPath.git
 - Allows to manage the best timing (survival or best score)
   - https://github.com/EloiStree/2024_09_06_BestTimingScore.git 
-  - 
+ 
+------------
+
+## Jam Code
+
+- Make music with your hand:
+  - https://github.com/EloiStree/2020_06_25_ThereminVR
+- Dorge incoming disk as long as you can:
+  - https://github.com/EloiStree/2020_07_01_ChallengeTron
+
+
